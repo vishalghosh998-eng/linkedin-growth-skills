@@ -1,0 +1,20 @@
+{
+  "name": "linkedin-growth-skills",
+  "interface": {
+    "displayName": "LinkedIn Skills"
+  },
+  "plugins": [
+    {
+      "name": "linkedin-growth-skills",
+      "source": {
+        "source": "local",
+        "path": "./.codex-marketplace/linkedin-growth-skills"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

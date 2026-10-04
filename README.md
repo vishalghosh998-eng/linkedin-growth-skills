@@ -1,9 +1,5 @@
 > Rebranded clone maintained by Vishal Ghosh. Original project by Sergey Bulaev / Creative Content Crafts.
 
-<p align="center">
-  <img src="assets/linkedin-growth-skills-hero.png" alt="12 Claude Code and Codex skills for LinkedIn marketing — open source, MIT licensed" width="900" />
-</p>
-
 # LinkedIn Growth Skills for Claude Code and Codex
 
 <p align="center">
